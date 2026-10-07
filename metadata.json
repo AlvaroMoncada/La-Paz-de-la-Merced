@@ -1,0 +1,6 @@
+{
+  "name": "La Paz de la Merced - Residencia de Mayores",
+  "description": "Centro residencial acreditado para personas mayores en el corazón de la ciudad. Dedicación médica 24/7, confort y cariño familiar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
